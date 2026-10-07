@@ -10,7 +10,7 @@ The dashboard analyzes hotel booking data and provides insights into revenue, bo
 ## 🖼️ Dashboard Preview
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Hotel Booking Dashboard](dashboard.png)
 
 ## 🛠️ Tools & Skills Used
 

@@ -57,7 +57,7 @@ The dataset was cleaned and prepared before creating the dashboard.
 
 ## 🖼️ Dashboard Preview
 
-![Hotel Booking Dashboard](Dashboard.png)
+https://github.com/kritika-suneja/hotel-booking-excel-dashboard/blob/main/dashboard.png
 
 ## 🎯 Key Insights
 

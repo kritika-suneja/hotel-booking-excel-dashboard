@@ -6,6 +6,12 @@ This project is an interactive Hotel Booking Dashboard created using Microsoft E
 
 The dashboard analyzes hotel booking data and provides insights into revenue, bookings, hotel performance, cancellations, and other key business metrics through an interactive and user-friendly dashboard.
 
+
+## 🖼️ Dashboard Preview
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## 🛠️ Tools & Skills Used
 
 - Microsoft Excel
@@ -54,10 +60,6 @@ The dataset was cleaned and prepared before creating the dashboard.
 7. Slicer Integration
 8. Dashboard Design
 9. Final Analysis
-
-## 🖼️ Dashboard Preview
-
-https://github.com/kritika-suneja/hotel-booking-excel-dashboard/blob/main/dashboard.png
 
 ## 🎯 Key Insights
 
